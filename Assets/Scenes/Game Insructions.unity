@@ -822,7 +822,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Use the four arrow keys to navigate.
+  m_Text: 'Use the four arrow keys (or WASD) to navigate.
 
 
     Don''t touch the walls, and watch out for falling obstacles!

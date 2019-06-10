@@ -5,7 +5,7 @@ public class continueToNextLevel : MonoBehaviour
 {
     public void PlayGame()
     {
-        Debug.Log("Play game");
+        Debug.Log("Begin");
         SceneManager.LoadScene("Maze 1");
     }
 

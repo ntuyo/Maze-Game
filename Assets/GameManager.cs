@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
         if (gameHasEnded == false)
         {
             gameHasEnded = true;
-            Debug.Log("GaMe oVeR");
+            Debug.Log("You Died");
             Restart();
             Invoke("Restart", restartDelay);
         }

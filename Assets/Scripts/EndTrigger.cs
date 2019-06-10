@@ -8,12 +8,12 @@ public class EndTrigger : MonoBehaviour
     {
         if(end.transform.tag == "Player")
         {   
-            Debug.Log("here");
+            Debug.Log("Level Passed");
             gameManager.CompleteLevel();
         }
         else
         {
-            Debug.Log("wall is triggering me!");
+
         }
     }
 }
