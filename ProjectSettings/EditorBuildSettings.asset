@@ -30,6 +30,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Maze 6.unity
     guid: 7862f1be2a9afd44f83733809ef4649e
   - enabled: 1
+    path: Assets/Scenes/Maze 7.unity
+    guid: 550feb4cdd996c4419b21e8c1068a472
+  - enabled: 1
+    path: Assets/Scenes/Maze 8.unity
+    guid: 1cb66a2f43b07a14b99fb35dccd807a0
+  - enabled: 1
+    path: Assets/Scenes/Maze 9.unity
+    guid: df49e643c08576a4f9f35864375fbf81
+  - enabled: 1
     path: Assets/Scenes/Exit.unity
     guid: 6027cfe31abc76e4486c1ade71ccb60d
   m_configObjects: {}

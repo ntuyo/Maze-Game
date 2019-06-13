@@ -10,6 +10,9 @@ Assets/Scenes/Maze 3.unity
 Assets/Scenes/Maze 4.unity
 Assets/Scenes/Maze 5.unity
 Assets/Scenes/Maze 6.unity
+Assets/Scenes/Maze 7.unity
+Assets/Scenes/Maze 8.unity
+Assets/Scenes/Maze 9.unity
 Assets/Scenes/Exit.unity
 SceneListEnd?
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret

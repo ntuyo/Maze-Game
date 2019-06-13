@@ -6,7 +6,7 @@ using Random = UnityEngine.Random;
 
 public class MazePassed : MonoBehaviour
 {
-    static int[] levels = { 2, 3, 4, 5, 6, 7 };
+    static int[] levels = { 2, 3, 4, 5, 6, 7, 8, 9, 10 };
     static int maxLevels = 0;
 
     public void MazeCompleted()
@@ -14,7 +14,7 @@ public class MazePassed : MonoBehaviour
         maxLevels += 1;
         Debug.Log("Levels Left: " + (4 - maxLevels));
 
-        int selectedlevel = Random.Range(2, 8);
+        int selectedlevel = Random.Range(2, 11);
         Debug.Log("Selected Level: " + selectedlevel);
         SceneManager.LoadScene(selectedlevel);        
         Debug.Log("Scene " + selectedlevel + " loaded.");
